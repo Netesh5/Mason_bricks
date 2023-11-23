@@ -8,6 +8,8 @@ bricks:
     path: bricks/feature_bricks
   appbar_brick:
     path: bricks/appbar_brick
+  core_brick:
+    path: bricks/core_brick
   # Bricks can also be imported via remote git url.
   # Uncomment the following lines to import the "widget" brick from git.
   # widget:

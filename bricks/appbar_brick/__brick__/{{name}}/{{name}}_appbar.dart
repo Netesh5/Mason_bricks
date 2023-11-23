@@ -15,3 +15,5 @@ class {{name.pascalCase()}}AppBar extends StatelessWidget implements PreferredSi
     );
   }
 }
+
+

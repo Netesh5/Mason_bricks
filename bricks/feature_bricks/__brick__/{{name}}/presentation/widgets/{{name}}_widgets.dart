@@ -8,4 +8,3 @@ class {{name.pascalCase()}}Widget extends StatelessWidget {
     return Container();
   }
 }
-

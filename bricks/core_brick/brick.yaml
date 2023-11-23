@@ -1,4 +1,4 @@
-name: appbar_brick
+name: core_brick
 description: A new brick created with the Mason CLI.
 
 # The following defines the brick repository url.
@@ -29,5 +29,5 @@ vars:
   name:
     type: string
     description: Your name
-    default: Custom
-    prompt: What is your appbar name?
+    default: Dash
+    prompt: What is your name?
