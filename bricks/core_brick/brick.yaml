@@ -29,5 +29,5 @@ vars:
   name:
     type: string
     description: Your name
-    default: Dash
-    prompt: What is your name?
+    default: core
+    prompt: What is your core folder name?
